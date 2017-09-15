@@ -28,4 +28,5 @@ np.save('file npy/H.npy',H)
 
 print(np.shape(R)) 
 
+#just kidding
 
